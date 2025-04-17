@@ -3,7 +3,7 @@
     {
       "id": "4b1f",
       "name": "Projeto edição",
-      "budget": "12341",
+      "budget": "2000",
       "category": {
         "id": "3",
         "name": "Back-End"
@@ -14,7 +14,7 @@
     {
       "id": "0145",
       "name": "Projeto testeIIA",
-      "budget": "22212",
+      "budget": "100",
       "category": {
         "id": "1",
         "name": "Infra"
