@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": "4b1f",
+      "name": "Projeto edição",
+      "budget": "12341",
+      "category": {
+        "id": "3",
+        "name": "Back-End"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0145",
+      "name": "Projeto testeIIA",
+      "budget": "22212",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Front-End"
+    },
+    {
+      "id": "3",
+      "name": "Back-End"
+    }
+  ]
+}
